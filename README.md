@@ -1,0 +1,1 @@
+This project is about to show how to write a very simple function using context with timeout
